@@ -3,7 +3,7 @@
  Front end web design major assignment team Manh - Dung - Manh
 
  
- Calss: CNTTVA2_K64
+ Class: CNTTVA2_K64
 
  
  School: University of Transport and Communications
